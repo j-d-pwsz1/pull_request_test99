@@ -1,1 +1,2 @@
 j-d-pwsz1/master: pierwsza linia
+j-d-pwsz2/feature-druga_linia: druga linia tekstu
