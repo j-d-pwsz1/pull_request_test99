@@ -1,2 +1,3 @@
-j-d-pwsz1/master: pierwsza linia
+j-d-pwsz1/master: pierwsza linia + MODYFIKACJA BY j-d-pwsz2
 j-d-pwsz2/feature-druga_linia: druga linia tekstu
+j-d-pwsz2/feature-trzecia_linia: trzecia linia tekstu
